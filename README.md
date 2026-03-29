@@ -51,7 +51,7 @@ python .\emby_missing_scanner.py
 
 ---
 
-## 命令行参数
+## 命令行参数  (调试用，可以无视)
 
 ```powershell
 python .\emby_missing_scanner.py [options]
