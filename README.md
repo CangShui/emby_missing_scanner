@@ -222,17 +222,3 @@ python .\emby_missing_scanner.py [options]
   - 打开 TMDB 对应集页面
 
 ---
-
-## 测试与构建
-
-```powershell
-python -m compileall .
-python -m unittest discover -s tests -v
-```
-
----
-
-## 安全建议
-
-- 不要把生产环境 `emby_api_key` / `tmdb_bearer` 提交到公开仓库
-- 推荐在发布到 GitHub 前，把配置示例中的密钥替换为占位符
