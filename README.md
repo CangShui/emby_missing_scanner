@@ -3,6 +3,9 @@
 一个用于扫描 Emby 动漫库缺失季/集的 Python 3 工具。  
 它会对比 Emby 现有数据与 TMDB 官方元数据，输出“缺失作品”，并可生成本地 Web 页面进行可视化查看。
 
+![1](https://github.com/user-attachments/assets/3d996d31-16ba-4b67-9809-f86094f01d09)
+
+
 ## 功能概览
 
 - 从 Emby 读取指定媒体库的全部剧集（默认 `Anime`）
