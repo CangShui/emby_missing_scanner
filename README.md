@@ -8,7 +8,7 @@
 
 ## 功能概览
 
-- 从 Emby 读取指定媒体库的全部剧集（默认 `Anime`）
+- 从 Emby 读取指定媒体库的全部剧集
 - 从 TMDB 获取季/集基准数据
 - 检测并输出：
   - 缺失整季
@@ -30,7 +30,6 @@
 ## 目录结构
 
 - `emby_missing_scanner.py`: 主程序
-- `tests/test_emby_missing_scanner.py`: 单元测试
 - `requirements.txt`: 依赖说明（标准库）
 
 ---
