@@ -1,0 +1,2 @@
+# emby_missing_scanner
+对接EMby和TMDB服务器扫描媒体库中节目缺失的集
